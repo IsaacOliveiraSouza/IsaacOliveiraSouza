@@ -23,6 +23,6 @@ Olá! Eu sou o Isaac de Oliveira Souza! Estudante do ensino médio concomitante 
   
   <div>
      <a href="https://www.instagram.com/isaac_zuza05" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
-     <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+     <a href="https://discord.com/channels/@me/883702612921290832" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
    <a href = "mailto:isaacoliveirazuza28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
