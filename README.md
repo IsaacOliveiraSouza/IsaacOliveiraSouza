@@ -1,8 +1,5 @@
 ### Hi there 👋
 Olá! Eu sou o Isaac de Oliveira Souza! Estudante do ensino médio concomitante ao ensino técnico de Informática.
-
-- 🌱 I’m currently learning C, HTML e CSS 
-- 💬 Ask me about linguagem HTML e CSS, python, poo, c# e mySQL
 - 📫 How to reach me: email: isaacoliveirazuza28@gmail.com
 <br>
 <div align="center">
