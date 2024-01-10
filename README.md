@@ -1,6 +1,6 @@
 ### Hi there 👋
-Olá! Eu sou o Isaac de Oliveira Souza! Estudante do ensino médio concomitante ao ensino técnico de Informática.
-- 📫 How to reach me: email: isaacoliveirazuza28@gmail.com
+Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, atuando como estágiario na área.
+- 📫 Meu E-mail: isaacoliveirazuza28@gmail.com
 <br>
 <div align="center">
   <a href="https://github.com/IsaacOliveiraSouza">
