@@ -7,8 +7,6 @@ Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, atuando co
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacOliveiraSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacOliveiraSouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-js import Desenvolvedor from 'Isaac'; class SobreMim extends Desenvolvedor {   nome = 'Isaac Oliveira';   area = 'Desenvolvimento';   local = 'São José dos Campos'; } class Skills extends Desenvolvedor {   linguagens  = ['JavaScript', 'TypeScript', 'Java', 'C#', 'Python', 'PHP entre outras... '];   frameworks = ['Node.js', 'Django', 'Laravel', 'Next.js', 'React']; } 
-  ##
   
   <div>
     
