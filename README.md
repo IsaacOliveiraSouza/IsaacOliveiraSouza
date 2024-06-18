@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, atuando como estágiario na área.
+Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, atuando como desenvolvedor na área.
 - 📫 Meu E-mail: isaacoliveirazuza28@gmail.com
 <br>
 <div align="center">
@@ -22,11 +22,7 @@ Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, atuando co
 <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- 
-          
-          
-                                   
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />                          
                                         
   </div>
   
