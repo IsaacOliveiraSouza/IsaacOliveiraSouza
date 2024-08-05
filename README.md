@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, atuando como desenvolvedor na área.
+Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, cursando superior em Banco de dados, atuando como desenvolvedor na área.
 - 📫 Meu E-mail: isaacoliveirazuza28@gmail.com
 <br>
 <div align="center">
