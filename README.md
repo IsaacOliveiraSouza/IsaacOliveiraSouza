@@ -1,5 +1,5 @@
 ### Hi there 👋
-Olá! Eu sou o Isaac de Oliveira Souza! Sou técnico de informática, cursando superior em Banco de dados, atuando como desenvolvedor na área.
+Sou o Isaac, um entusiasta da tecnologia, desenvolvedor Full Stack e programador ERP. Formado em Informática pelo Colégio Técnico Univap, e cursando Banco de dados na Fatec. Você pode me encontrar na equipe do GrupoGreatek, onde passo meus dias auxiliando no desenvolvimento em diversas áreas da tecnologia, como programação, integração de sistemas e suporte aos usuários.
 - 📫 Meu E-mail: isaacoliveirazuza28@gmail.com
 <br>
 <div align="center">
