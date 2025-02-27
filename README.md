@@ -4,7 +4,7 @@ Sou o Isaac, um entusiasta da tecnologia, desenvolvedor Full Stack e programador
 <br>
 <div align="center">
   <a href="https://github.com/IsaacOliveiraSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacOliveiraSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacOliveiraSouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
